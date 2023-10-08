@@ -1,7 +1,7 @@
 #!/bin/bash
 DATE2=$(date -R | cut -d " " -f -5)
 # BOT INFORMATION
-export CHATID="-4066364221"
+export CHATID="6050202923"
 export KEY="6582698510:AAHXwQ6NhYWrj7eFJJZMAQv33noGu9S7Xfo"
 export TIME="10"
 export URL="https://api.telegram.org/bot$KEY/sendMessage"
