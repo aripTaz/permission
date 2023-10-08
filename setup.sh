@@ -292,12 +292,12 @@ TEXT="𝗦𝘂𝗰𝗰𝗲𝘀 𝗮𝘁 𝗥𝗲𝗴𝗶𝘀𝘁𝗿𝘆
     𝗩𝗣𝗦 𝗜𝗡𝗙𝗢
     ◇━━━━━━━━━━━━━━━━━━━━━━━◇
     <code>Domain     :</code> <code>$domain</code>
-    <code>IP Vps     :</code> <code>$ip_vps</code>
+    <code>IP Vps     :</code> <code>$(cat /etc/xray/domain)</code>
     <code>Date & Time:</code><code>$DATE2</code>
     <code>User Script:</code> <code>$nama</code>
     <code>Exp Script :</code> <code>$tanggal</code>
     ◇━━━━━━━━━━━━━━━━━━━━━━━◇
-    ⚠︎𝘽𝙮 RZ-Tun 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮⚠︎
+    ⚠︎𝘽𝙮 ST-VPN 𝙋𝙧𝙤𝙟𝙚𝙘𝙩 𝙈𝙖𝙣𝙖𝙜𝙚𝙧 𝘾𝙤𝙢𝙢𝙪𝙣𝙞𝙩𝙮⚠︎
     ◇━━━━━━━━━━━━━━━━━━━━━━━◇
 "
 clear
