@@ -190,10 +190,10 @@ mkdir -p /var/lib >/dev/null 2>&1
 echo "IP=" >> /var/lib/ipvps.conf
 
 echo ""
-wget -q https://raw.githubusercontent.com/Rerechan02/v/main/tools.sh;chmod +x tools.sh;./tools.sh
+wget -q https://raw.githubusercontent.com/aripTaz/a/main/tools.sh;chmod +x tools.sh;./tools.sh
 rm tools.sh
 clear
-wget -q https://raw.githubusercontent.com/Rerechan02/v/main/api;chmod +x api;./api
+wget -q https://raw.githubusercontent.com/aripTaz/a/main/api;chmod +x api;./api
 clear
 clear
 echo -e "$white\033[0;34m┌─────────────────────────────────────────┐${NC}"
